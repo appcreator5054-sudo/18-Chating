@@ -1,0 +1,6 @@
+{
+  "name": "18+ Adult Chat & Dating",
+  "description": "Discover an adult-oriented chat and dating experience. 18+ only.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
